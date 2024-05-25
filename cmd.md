@@ -30,3 +30,8 @@ git log --oneline
 git checkout
 ```
 
+Отображение всех веток
+```sh
+git branch
+```
+
