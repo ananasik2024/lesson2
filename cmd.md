@@ -12,7 +12,7 @@ dir
 
 Удаление файла на Windows:
 ```sh
-del <filename>
+del <file_name>
 ```
 
 Посмотерть лог в полном виде
